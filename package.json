@@ -1,0 +1,15 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Sunghee2/typeChain.git",
+  "author": "Sunghee2 <630sunghee@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "yarn run tsc"
+  },
+  "dependencies": {
+    "typescript": "^2.9.2"
+  }
+}
