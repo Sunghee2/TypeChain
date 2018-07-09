@@ -10,4 +10,8 @@ Learning Typescript by making a Blockchain with it
 >
 > 변환 : (windows) yarn run tsc
 
-> function 파라미터에 arguments optional 설정 : 파라미터 뒤에 ? 붙이기
+> function 파라미터에 arguments optional 설정 : 파라미터 뒤에 ? 붙이기 (없으면 undefined)
+>
+> 파라미터, 함수리턴타입 지정 가능
+
+>tsc-watch : 변경될 때마다 자동으로(약간 nodemon같은 역할인듯)

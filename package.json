@@ -6,10 +6,12 @@
   "author": "Sunghee2 <630sunghee@naver.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js",
-    "prestart": "yarn run tsc"
+    "start": "tsc-watch --onSuccess \" node dist/index.js\" "
   },
   "dependencies": {
     "typescript": "^2.9.2"
+  },
+  "devDependencies": {
+    "tsc-watch": "^1.0.22"
   }
 }
