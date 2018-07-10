@@ -2,7 +2,7 @@
 Learning Typescript by making a Blockchain with it
 
 ## Todo
-##### 18-07-10
+##### 18-07-09
 
 > Typescript 설치 :  `yarn global add typescript`
 
@@ -15,3 +15,9 @@ Learning Typescript by making a Blockchain with it
 > 파라미터, 함수리턴타입 지정 가능
 
 >tsc-watch : 변경될 때마다 자동으로(약간 nodemon같은 역할인듯)
+
+
+
+##### 18-07-10
+
+> interface
