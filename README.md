@@ -1,7 +1,20 @@
 # typeChain
 Learning Typescript by making a Blockchain with it
 
-## Todo
+## Running this project
+
+```
+$ yarn
+$ yarn start
+```
+
+## Screenshot
+
+![screenshot](./screenshots/sample.JPG)
+
+
+
+## 정리
 ##### 18-07-09
 
 > Typescript 설치 :  `yarn global add typescript`
@@ -21,3 +34,5 @@ Learning Typescript by making a Blockchain with it
 ##### 18-07-10
 
 > interface : js로 컴파일x  -> class
+
+https://academy.nomadcoders.co/p/build-a-blockchain-with-typescript
