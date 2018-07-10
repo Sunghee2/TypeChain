@@ -20,4 +20,4 @@ Learning Typescript by making a Blockchain with it
 
 ##### 18-07-10
 
-> interface
+> interface : js로 컴파일x  -> class
